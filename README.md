@@ -1,1 +1,1 @@
-# Myproject
+# Test online store with django
