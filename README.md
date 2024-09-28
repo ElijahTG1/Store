@@ -1,1 +1,2 @@
-# Test online store with django
+# Online store
+Online store with Django/HTML/CSS/JavaScript
